@@ -19,11 +19,22 @@ The **StudentTrack System** is a Java-based application designed to efficiently 
 
 - **Programming Language:** Java  
 - **Concepts:** Collection Framework (`ArrayList`), OOPs (Encapsulation, Inheritance), Exception Handling  
+- **Architecture:** Layered Architecture (Entity, DAO, Service, Controller, and Client Layers)
+
+## **Project Structure**
+
+1. **Entity Layer:** Represents the `Student` class with attributes like ID, name, age, and marks.
+2. **DAO Layer (Data Access Object):** Manages data storage and retrieval using `ArrayList`.
+3. **Service Layer:** Implements business logic for managing student records.
+4. **Controller Layer:** Handles user requests and communicates between the service and client.
+5. **Client Layer:** Provides the user interface for interacting with the system.
 
 ## **Advantages**
 
 ✅ No external database required, reducing complexity  
 ✅ Easy to modify and extend features  
+✅ Modular code structure using **Layered Architecture**  
+✅ Improved separation of concerns for better maintainability  
 
 ## **How to Run the Project**
 1. Clone this repository:
@@ -43,5 +54,6 @@ The **StudentTrack System** is a Java-based application designed to efficiently 
 ## **Contributing**
 Feel free to contribute to this project by adding new features or optimizing the code. Submit a pull request with your updates!
 
+---
 
 🚀 **Happy Coding!**
