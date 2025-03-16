@@ -56,4 +56,4 @@ Feel free to contribute to this project by adding new features or optimizing the
 
 ---
 
-🚀 **Happy Coding!**
+ **Happy Coding!**
