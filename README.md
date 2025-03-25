@@ -55,5 +55,3 @@ The **StudentTrack System** is a Java-based application designed to efficiently 
 Feel free to contribute to this project by adding new features or optimizing the code. Submit a pull request with your updates!
 
 ---
-
- **Happy Coding!**
